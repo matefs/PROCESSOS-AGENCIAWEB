@@ -2,7 +2,7 @@
  
 
 ## Ferramentas 
-- [Remodelar imagem com grok](https://x.com/i/grok)
+- [GROK para Remodelar imagem ](https://x.com/i/grok)
 - [lek do black gemini ](https://gemini.google.com/u/2/gem/1a1257aae1fa)
 
 
