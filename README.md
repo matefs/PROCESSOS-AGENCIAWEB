@@ -1,6 +1,7 @@
 ### Template para minhas informacoes 
 ```md
 Sou Mateus,
+Já tenho alguns clientes fixos
 Desenvolvedor pleno e microempreendedor digital
 Venda de sites com foco em conversão, velocidade e performance
 Tráfego pago e social media integrados à oferta
