@@ -5,6 +5,12 @@
 - [GROK para Remodelar imagem ](https://x.com/i/grok)
 - [lek do black gemini ](https://gemini.google.com/u/2/gem/1a1257aae1fa)
 
+### Prompts
+- [prompt para remodelar criativos em imagem headline subheadline](https://github.com/matefs/PROCESSOS-AGENCIAWEB/blob/main/prompt-remodelar-imagemi.md).
+- [copywriter para posts no instagram! ](https://github.com/matefs/PROCESSOS-AGENCIAWEB/blob/main/COPYWRITER-POSTS-ISNTAGRAM)
+
+
+
 
 ## Minhas infos !! 
 ```md
@@ -51,11 +57,4 @@ Linguagem objetiva, comercial e focada em conversão
     - ⚡ Responder Leads Novos 24hrs
 
 
-
-
-
-### Prompts
-[prompt para remodelar criativos em imagem headline subheadline](https://github.com/matefs/PROCESSOS-AGENCIAWEB/blob/main/prompt-remodelar-imagemi.md).
-
-[copywriter para posts no instagram! ](https://github.com/matefs/PROCESSOS-AGENCIAWEB/blob/main/COPYWRITER-POSTS-ISNTAGRAM)
 
