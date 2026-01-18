@@ -1,4 +1,12 @@
-### Template para minhas informacoes 
+# Template para minhas informacoes 
+ 
+
+## Ferramentas 
+- [Remodelar imagem com grok](https://x.com/i/grok)
+- [lek do black gemini ](https://gemini.google.com/u/2/gem/1a1257aae1fa)
+
+
+## Minhas infos !! 
 ```md
 Sou Mateus,
 Já tenho alguns clientes fixos
@@ -21,9 +29,27 @@ Proibido usar identificações como “CTA”, “Headline”, etc.
 Linguagem objetiva, comercial e focada em conversão
 
 ``` 
+ 
 
 
-###  Links importantes agencia 
+# 🤖 Estrutura de Agentes
+
+- **Agente de IA**
+  - ✍️ **Copywriter**
+    - 📸 *Posts Instagram*
+      - `PROMPT` Copy para Insta
+      - `PROMPT` Remodelar Imagem
+    - 🚀 *Criativos Meta Ads*
+      - `PROMPT` Copy para Oferta Agressiva (Dor, Nicho)
+    - 🌐 *Copy para Site*
+      - `PROMPT` Copy para Site
+        - 🛍️ Catálogo
+        - 🎓 Mentoria
+        - 🛠️ Mostrar Serviços
+
+  - 🟢 **Robô de Zap**
+    - ⚡ Responder Leads Novos 24hrs
+
 
 
 
