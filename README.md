@@ -1,5 +1,14 @@
 # Templates & minhas informacoes 
- 
+
+Entender a dor do avatar (persona) para o nicho:
+´´´ 
+- Comentarios do youtube
+- Posts grupos facebook !
+ - Comentários posts de grupo de fb  
+- Fóruns
+- Comentarios insta
+- Reclame Aqui
+´´´ 
 
 ## Ferramentas 
 - [GROK para Remodelar imagem ](https://x.com/i/grok)
