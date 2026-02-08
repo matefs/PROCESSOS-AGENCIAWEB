@@ -10,16 +10,10 @@ Entender a dor do avatar (persona) para o nicho:
 - Reclame Aqui
 ```
 
-## Ferramentas 
-- [GROK para Remodelar imagem ](https://x.com/i/grok)
-- [lek do black gemini ](https://gemini.google.com/u/2/gem/1a1257aae1fa)
-
-### Prompts
-- [prompt para remodelar criativos em imagem headline subheadline](https://github.com/matefs/PROCESSOS-AGENCIAWEB/blob/main/prompt-remodelar-imagemi.md).
-- [copywriter para posts no instagram! ](https://github.com/matefs/PROCESSOS-AGENCIAWEB/blob/main/COPYWRITER-POSTS-ISNTAGRAM)
-
-
-
+ | Ferramentas | Prompts |
+| :--- | :--- |
+| [GROK para Remodelar imagem](https://x.com/i/grok) | [Remodelar criativos](https://github.com/matefs/PROCESSOS-AGENCIAWEB/blob/main/prompt-remodelar-imagemi.md) |
+| [lek do black gemini](https://gemini.google.com/u/2/gem/1a1257aae1fa) | [Copywriter para Instagram](https://github.com/matefs/PROCESSOS-AGENCIAWEB/blob/main/COPYWRITER-POSTS-ISNTAGRAM) |
 
 ## Minhas infos !! 
 ```md
