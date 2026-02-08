@@ -47,6 +47,29 @@ Linguagem objetiva, comercial e focada em conversão
 ``` 
  
 
+### Regras de copy: 
+
+```
+❌ Proibido:
+Promessas manjadas: Novidades "entre 4 paredes", "método secreto", "revelado".
+
+Prometer resultado direto: "Você vai aprender", "Você vai vender".
+
+Perguntas óbvias/retóricas: "Quer emagrecer?", "Quer ser rico?", "Gosta de viajar?".
+
+Imperativos: "Faça tal coisa", "Aprenda isso".
+
+Começar com "Você": Evite o endereçamento direto logo de cara.
+
+Subestimar o lead: Tratar o leitor como se ele não entendesse o básico.
+
+Parecer vendedor: Nada de tom comercial ou forçado.
+
+Validadores de conversa: Proibido usar "Né?", "Certo?" ou buscar aprovação constante.
+
+``` 
+
+
 
 # 🤖 Estrutura de Agentes
 
