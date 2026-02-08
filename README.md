@@ -50,22 +50,23 @@ Linguagem objetiva, comercial e focada em conversão
 ### Regras de copy: 
 
 ```
-❌ Proibido:
-Promessas manjadas: Novidades "entre 4 paredes", "método secreto", "revelado".
+### 🚫 PROIBIDO NA COPY
 
-Prometer resultado direto: "Você vai aprender", "Você vai vender".
+* **Promessas Manjadas:** (Ex: "Novidades entre 4 paredes", "Método secreto", "Vou revelar").
+* **Prometer Resultado:** (Ex: "Você vai aprender", "Você vai vender").
+* **Perguntas Retóricas/Óbvias:** (Ex: "Quer ser rico?", "Gosta de viajar?", "Quer emagrecer?").
+* **Verbos Imperativos:** (Ex: "Aprenda", "Faça", "Clique").
+* **Começar com "Você":** Fuja do endereçamento direto logo no início.
+* **Subestimar o Lead:** Nunca desconfie da inteligência de quem está lendo.
+* **Muletas de Validação:** Proibido usar "Né?", "Certo?" ou forçar concordância.
+* **Parecer Vendedor:** Copy pesada, comercial ou que tenta vender a todo custo.
 
-Perguntas óbvias/retóricas: "Quer emagrecer?", "Quer ser rico?", "Gosta de viajar?".
+### ✅ REGRAS DE OURO
 
-Imperativos: "Faça tal coisa", "Aprenda isso".
-
-Começar com "Você": Evite o endereçamento direto logo de cara.
-
-Subestimar o lead: Tratar o leitor como se ele não entendesse o básico.
-
-Parecer vendedor: Nada de tom comercial ou forçado.
-
-Validadores de conversa: Proibido usar "Né?", "Certo?" ou buscar aprovação constante.
+* **P1 + P2 + P3 = Conclusão:** A solução (seu serviço) deve ser a consequência natural do diálogo.
+* **Quebra de Padrão (Hook):** Começar com notícias atuais, bizarrices ou fatos inesperados.
+* **Tom de Conversa:** Narrativa real (Ex: "Com 20 anos você pensou...").
+* **Apelos Visuais:** Sarcasmo, ironia, exagero e bizarrice.
 
 ``` 
 
