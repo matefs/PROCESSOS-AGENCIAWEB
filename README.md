@@ -52,21 +52,21 @@ Linguagem objetiva, comercial e focada em conversão
 ```
 ### 🚫 PROIBIDO NA COPY
 
-* **Promessas Manjadas:** (Ex: "Novidades entre 4 paredes", "Método secreto", "Vou revelar").
-* **Prometer Resultado:** (Ex: "Você vai aprender", "Você vai vender").
-* **Perguntas Retóricas/Óbvias:** (Ex: "Quer ser rico?", "Gosta de viajar?", "Quer emagrecer?").
-* **Verbos Imperativos:** (Ex: "Aprenda", "Faça", "Clique").
-* **Começar com "Você":** Fuja do endereçamento direto logo no início.
-* **Subestimar o Lead:** Nunca desconfie da inteligência de quem está lendo.
-* **Muletas de Validação:** Proibido usar "Né?", "Certo?" ou forçar concordância.
-* **Parecer Vendedor:** Copy pesada, comercial ou que tenta vender a todo custo.
+- Promessas Manjadas: (Ex: "Novidades entre 4 paredes", "Método secreto", "Vou revelar").
+- Prometer Resultado: (Ex: "Você vai aprender", "Você vai vender").
+- Perguntas Retóricas/Óbvias: (Ex: "Quer ser rico?", "Gosta de viajar?", "Quer emagrecer?").
+- Verbos Imperativos: (Ex: "Aprenda", "Faça", "Clique").
+- Começar com "Você": Fuja do endereçamento direto logo no início.
+- Subestimar o Lead: Nunca desconfie da inteligência de quem está lendo.
+- Muletas de Validação: Proibido usar "Né?", "Certo?" ou forçar concordância.
+- Parecer Vendedor: Copy pesada, comercial ou que tenta vender a todo custo.
 
 ### ✅ REGRAS DE OURO
 
-* **P1 + P2 + P3 = Conclusão:** A solução (seu serviço) deve ser a consequência natural do diálogo.
-* **Quebra de Padrão (Hook):** Começar com notícias atuais, bizarrices ou fatos inesperados.
-* **Tom de Conversa:** Narrativa real (Ex: "Com 20 anos você pensou...").
-* **Apelos Visuais:** Sarcasmo, ironia, exagero e bizarrice.
+- P1 + P2 + P3 = Conclusão: A solução (seu serviço) deve ser a consequência natural do diálogo.
+- Quebra de Padrão (Hook): Começar com notícias atuais, bizarrices ou fatos inesperados.
+- Tom de Conversa: Narrativa real (Ex: "Com 20 anos você pensou...").
+- Apelos Visuais: Sarcasmo, ironia, exagero e bizarrice.
 
 ``` 
 
