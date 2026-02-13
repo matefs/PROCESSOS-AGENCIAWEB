@@ -8,3 +8,4 @@ site:
 [https://arena.ai/](https://arena.ai/)
 
 
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/dde9fb28-ccd4-40e0-8f05-3aac983cbf1d" />
