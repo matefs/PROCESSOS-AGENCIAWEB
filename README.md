@@ -1,4 +1,6 @@
 # Templates & minhas informacoes 
+<img width="1442" height="562" alt="image" src="https://github.com/user-attachments/assets/db0f5d50-4bdd-469c-9386-1590b02176f9" />
+
 
 Entender a dor do avatar (persona) para o nicho:
 ```md
