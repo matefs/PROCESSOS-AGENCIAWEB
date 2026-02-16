@@ -2,7 +2,7 @@
 <img width="1442" height="562" alt="image" src="https://github.com/user-attachments/assets/db0f5d50-4bdd-469c-9386-1590b02176f9" />
 
 ## [Lista de decisores](https://github.com/matefs/PROCESSOS-AGENCIAWEB/blob/main/RECURSOS/LISTA_DECISORES_FINAIS.md)
-
+## [Script de venda com experiencia preço e projetos ](https://docs.google.com/document/d/1uuFqNvPNU2XVVw6BgU8Wy0n2tJob1X50PGMpCdMVb7w/edit?tab=t.0) 
  
 Entender a dor do avatar (persona) para o nicho:
 ```md
