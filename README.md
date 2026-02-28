@@ -67,7 +67,8 @@ Linguagem objetiva, comercial e focada em conversão
 - Apelos Visuais: Sarcasmo, ironia, exagero e bizarrice.
 
 ``` 
-
+## Escala para negócio 
+<img width="703" height="505" alt="{49711F8D-BD27-4DDF-92E7-959AA00A0536}" src="https://github.com/user-attachments/assets/cbbe2f41-a789-4573-a310-b6856ee90841" />
 
 
 # 🤖 Estrutura de Agentes
