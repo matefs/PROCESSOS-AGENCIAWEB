@@ -3,6 +3,15 @@
 
 ## [Lista de decisores](https://github.com/matefs/PROCESSOS-AGENCIAWEB/blob/main/RECURSOS/LISTA_DECISORES_FINAIS.md)
 ## [Script de venda com experiencia preço e projetos ](https://docs.google.com/document/d/1uuFqNvPNU2XVVw6BgU8Wy0n2tJob1X50PGMpCdMVb7w/edit?tab=t.0) 
+
+
+### VPS 
+
+https://login.kinghost.com.br/
+matefs8569@gmail.com
+M@teus@schverz1
+
+
  
 Entender a dor do avatar (persona) para o nicho:
 ```md
